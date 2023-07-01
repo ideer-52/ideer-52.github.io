@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Tag_name2 on My New Hugo Site</title>
+    <link>/tags/tag_name2/</link>
+    <description>Recent content in Tag_name2 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 13:02:50 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 13:02:50 +0800</lastBuildDate><atom:link href="/tags/tag_name2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Problem</title>
       <link>/post/problem/</link>
@@ -17,22 +17,6 @@
         
           
             #创建博客时，最后自己的Blog网站显示404报错，我将前一步创建的public文件夹删除后重复进行后续步骤，可以打开自己的Blog网站。
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>MyFirstBlog</title>
-      <link>/post/myfirstblog/</link>
-      <pubDate>Thu, 29 Jun 2023 10:55:25 +0800</pubDate>
-      
-      <guid>/post/myfirstblog/</guid>
-      <description>
-        
-          
-            这是我的第一篇博客 
           
           
         
